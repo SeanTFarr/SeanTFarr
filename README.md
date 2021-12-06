@@ -27,6 +27,8 @@ I am a data analyst with a background in business management and customer servic
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanTFarr&theme=ayu-mirage&hide=stars&count_private=true)](https://github.com/SeanTFarr/SeanTFarr)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanTFarr&theme=ayu-mirage&langs_count=8)](https://github.com/SeanTFarr/SeanTFarr)
 
 🍜
