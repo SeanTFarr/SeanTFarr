@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-<a target="_blank" href="https://icons8.com/icon/1150/coffee">Coffee</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 
 
 ## ☕ Who I am
@@ -22,7 +22,9 @@ Data analyst with a background in business management and customer service with 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=MechaCar_Statistical_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/MechaCar_Statistical_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=bikesharing&theme=ayu-mirage)](https://github.com/SeanTFarr/bikesharing)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Mapping_Earthquakes&theme=ayu-mirage)](https://github.com/SeanTFarr/Mapping_Earthquakes)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=PyBer_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/PyBer_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=World_Weather_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/World_Weather_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=surfs_up&theme=ayu-mirage)](https://github.com/SeanTFarr/surfs_up)
 
-<img src='https://github.com/SeanTFarr/SeanTFarr/blob/main/Images/QBdash.png'>
+### Public <a target="_blank" href="https://public.tableau.com/app/profile/sean.farr2471#!/?newProfile=&activeTab=0">Tableau</a> projects
+
+
 
 ## 🔩 Technologies and Tools
 
