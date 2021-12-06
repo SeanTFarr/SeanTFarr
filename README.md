@@ -22,7 +22,7 @@ Data analyst with a background in business management and customer service with 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=MechaCar_Statistical_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/MechaCar_Statistical_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=bikesharing&theme=ayu-mirage)](https://github.com/SeanTFarr/bikesharing)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Mapping_Earthquakes&theme=ayu-mirage)](https://github.com/SeanTFarr/Mapping_Earthquakes)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=PyBer_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/PyBer_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=World_Weather_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/World_Weather_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=surfs_up&theme=ayu-mirage)](https://github.com/SeanTFarr/surfs_up)
 
-<img src=SeanTFarr\Images\QBdash.png>
+<img src='https://github.com/SeanTFarr/SeanTFarr/blob/main/Images/QBdash.png'>
 
 ## 🔩 Technologies and Tools
 
