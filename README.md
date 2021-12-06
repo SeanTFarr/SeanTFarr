@@ -3,11 +3,12 @@
 
 ### Hi there 👋
 
-
-
 ## ☕ A little about me...
 
-I am a data analyst with a background in business management and customer service. I gained  skills in Excel, VBA, Python, Javascript, Tableau, and SQL from University of Central Florida’s data analytics boot camp. I love opportunities to learn processes, gain understanding of how they work, then refactor them to ultimately deliver a world class customer experience. One of my larger past projects included taking a paper driven check in process and turning it into an organized, low-code database platform that streamlined the original process and gave statistical data to show business volume and areas for improvement. 
+- was bitten by the data analytics bug a while back and hooked ever since
+- currently in a data analytics course at UCF
+- love to learn new things 
+- addicted to coffee!
 
 ## :open_file_folder: Recent Projects 
 
