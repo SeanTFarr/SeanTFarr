@@ -25,9 +25,9 @@ I am a data analyst with a background in business management and customer servic
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<Label>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Low_Code-Quickbase-informational?style=flat&logo=<Label>&logoColor=white&color=purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanTFarr&theme=ayu-mirage&langs_count=8)](https://github.com/SeanTFarr/SeanTFarr)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanTFarr&theme=ayu-mirage&hide=stars&count_private=true)](https://github.com/SeanTFarr/SeanTFarr)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanTFarr&theme=ayu-mirage&hide=stars&count_private=true)](https://github.com/SeanTFarr/SeanTFarr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanTFarr&theme=ayu-mirage&langs_count=8)](https://github.com/SeanTFarr/SeanTFarr)
 
 🍜
 <!--
