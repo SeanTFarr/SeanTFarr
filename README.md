@@ -10,6 +10,8 @@
 - love to learn new things 
 - addicted to coffee!
 
+More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfolio/">portfolio</a>
+
 ## :open_file_folder: Recent Projects 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=MechaCar_Statistical_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/MechaCar_Statistical_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=bikesharing&theme=ayu-mirage)](https://github.com/SeanTFarr/bikesharing)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Mapping_Earthquakes&theme=ayu-mirage)](https://github.com/SeanTFarr/Mapping_Earthquakes)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=PyBer_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/PyBer_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=World_Weather_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/World_Weather_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=surfs_up&theme=ayu-mirage)](https://github.com/SeanTFarr/surfs_up)
