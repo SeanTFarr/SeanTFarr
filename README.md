@@ -6,7 +6,7 @@
 ## ☕ A little about me...
 
 - was bitten by the data analytics bug a while back and hooked ever since
-- currently in a data analytics course at UCF
+- recently completed a data analytics course at UCF
 - love to learn new things 
 - addicted to coffee!
 
