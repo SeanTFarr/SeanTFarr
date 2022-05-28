@@ -22,10 +22,15 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 ## 🔩 Technologies and Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Label>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<Label>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<Label>&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<Label>&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)
+
+
+
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=TableAU&logoColor=white&color=blue)
+
 ![](https://img.shields.io/badge/Low_Code-Quickbase-informational?style=flat&logo=<Label>&logoColor=white&color=purple)
 
 
