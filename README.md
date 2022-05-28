@@ -27,11 +27,14 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)
 
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=PowerBI&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=TableAU&logoColor=white&color=orange)
 
+![](https://img.shields.io/badge/Low_Code_DB-QuickBase-informational?style=flat&logo=<Label>&logoColor=white&color=purple)
 
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=TableAU&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Low_Code-Quickbase-informational?style=flat&logo=<Label>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Media-GitHub-informational?style=flat&logo=Github&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Media-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanTFarr&theme=ayu-mirage&hide=stars&count_private=true)](https://github.com/SeanTFarr/SeanTFarr)
