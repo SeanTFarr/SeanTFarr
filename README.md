@@ -26,6 +26,7 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
 
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=PowerBI&logoColor=white&color=yellow)
