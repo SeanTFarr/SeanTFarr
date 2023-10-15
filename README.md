@@ -12,11 +12,11 @@
 
 More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfolio/">portfolio</a>
 
-## :open_file_folder: My favorite projects from the Data Bootcamp
+## &#129355;My favorite projects from the Data Bootcamp
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Crime_Predictions_In_Chicago&theme=ayu-mirage)](https://github.com/SeanTFarr/Crime_Predictions_In_Chicago)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=MechaCar_Statistical_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/MechaCar_Statistical_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Amazon_Vine_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/Amazon_Vine_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Mapping_Earthquakes&theme=ayu-mirage)](https://github.com/SeanTFarr/Mapping_Earthquakes)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=World_Weather_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/World_Weather_Analysis)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=surfs_up&theme=ayu-mirage)](https://github.com/SeanTFarr/surfs_up)
 
-## My own projects
+## &#127836;My own projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Coffee_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/Coffee_Analysis)
 
@@ -41,7 +41,7 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanTFarr&theme=ayu-mirage&langs_count=8)](https://github.com/SeanTFarr/SeanTFarr)
 
-🍜
+
 <!--
 **SeanTFarr/SeanTFarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
