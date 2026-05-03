@@ -20,7 +20,6 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 
 [![Pinned](./profile/pin-coffee.svg)](https://github.com/SeanTFarr/Coffee_Analysis)
-
 [![Pinned](./profile/pin-market.svg)](https://github.com/SeanTFarr/Maven_Market)
 
 
