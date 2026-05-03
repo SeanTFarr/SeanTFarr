@@ -22,6 +22,8 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 [![Pinned](./profile/pin-coffee.svg)](https://github.com/SeanTFarr/Coffee_Analysis)
 
+[![Pinned](./profile/pin-market.svg)](https://github.com/SeanTFarr/Maven_Market)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Maven_Market&theme=ayu-mirage)](https://github.com/SeanTFarr/Maven_Market)
 
 
@@ -46,7 +48,6 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 ![Top Languages](./profile/top-langs.svg)
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 &#128060;
 <!--

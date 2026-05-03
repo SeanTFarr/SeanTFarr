@@ -35,8 +35,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=SeanTFarr&repo=SeanTFarr
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=SeanTFarr&repo=Maven_Market
+          path: profile/pin-Market.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate coffee card
