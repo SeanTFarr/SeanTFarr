@@ -38,6 +38,7 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 ![](https://img.shields.io/badge/Media-GitHub-informational?style=flat&logo=Github&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Media-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue)
 
+![Metrics](./github-metrics.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanTFarr&theme=ayu-mirage&hide=stars&count_private=true)](https://github.com/SeanTFarr/SeanTFarr)
 
