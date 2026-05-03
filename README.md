@@ -43,7 +43,7 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 ![Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+<!-- ![Top Languages](./profile/top-langs.svg) -->
 
 
 &#128060;
