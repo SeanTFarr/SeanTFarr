@@ -36,7 +36,7 @@ jobs:
         with:
           card: pin
           options: username=SeanTFarr&repo=Maven_Market
-          path: profile/pin-Market.svg
+          path: profile/pin-market.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate coffee card
