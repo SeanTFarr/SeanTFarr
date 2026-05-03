@@ -19,6 +19,7 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 ## &#127836;My own projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Coffee_Analysis&theme=ayu-mirage)](https://github.com/SeanTFarr/Coffee_Analysis)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeanTFarr&repo=Maven_Market&theme=ayu-mirage)](https://github.com/SeanTFarr/Maven_Market)
 
 
