@@ -27,15 +27,14 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 ## 🔩 Technologies and Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-MS%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Low_Code_DB-QuickBase-informational?style=flat&logo=<Label>&logoColor=white&color=purple)
 
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Power_BI-informational?style=flat&logo=PowerBI&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=TableAU&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Media-GitHub-informational?style=flat&logo=Github&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Media-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue)
 
@@ -44,7 +43,6 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 ![Stats](./profile/stats.svg)
 
 <!-- ![Top Languages](./profile/top-langs.svg) -->
-
 
 &#128060;
 <!--
