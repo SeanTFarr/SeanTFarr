@@ -39,7 +39,7 @@ More about me on my <a target="_blank" href="https://seantfarr.github.io/Portfol
 
 ![Metrics](./github-metrics.svg)
 
-![Stats](./profile/stats.svg)
+<!--![Stats](./profile/stats.svg) -->
 
 <!-- ![Top Languages](./profile/top-langs.svg) -->
 
