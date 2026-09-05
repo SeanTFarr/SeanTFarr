@@ -11,6 +11,7 @@ jobs:
 
     permissions:
       contents: write
+      actions: read
 
     steps:
       - uses: actions/checkout@v6
@@ -23,15 +24,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card
+      - name: Generate pin card - Maven_Market
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
@@ -39,7 +32,7 @@ jobs:
           path: profile/pin-market.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate coffee card
+      - name: Generate pin card - Coffee_Analysis
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
